@@ -1,12 +1,5 @@
 #### :dollar: DSMovie - Listagem e avaliação de filmes.
 
-<ol align="left">
- <li><strong><a href="#--sobre-o-projeto">Sobre</a></strong></li>
- <li><strong><a href="#--tecnologias">Tecnologias</a></strong></li>
- <li><strong><a href="#--aprendizados-back-end">Aprendizados Back-end</a></strong></li>
- <li><strong><a href="#--aprendizados-front-end">Aprendizados Front-end</a></strong></li>
-</ol>
-
 🌎 **Acesse agora:**
 
 <a href="porto-dsmovie.netlify.app/" target="_blank" title="acessar o site"><strong>https://porto-dsmovie.netlify.app</strong></a>
